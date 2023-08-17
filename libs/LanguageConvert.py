@@ -24,4 +24,4 @@ def convert_tw_cn(tw_file, cn_file):
 
 
 if __name__ == '__main__':
-    convert_tw_cn("../tw/strings7.3.0.json", "../strings.json")
+    convert_tw_cn("../tw/strings7.5.0.json", "../strings.json")
