@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71cfda79-09ef-437a-9a0a-776cb17b270e" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/LanguageConvert.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/LanguageConvert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/strings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692176046540</updated>
       <workItem from="1692176048275" duration="28834000" />
-      <workItem from="1692263445925" duration="2750000" />
+      <workItem from="1692263445925" duration="3258000" />
     </task>
     <servers />
   </component>
