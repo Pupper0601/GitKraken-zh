@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71cfda79-09ef-437a-9a0a-776cb17b270e" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/chengqiande/Documents/Github/GitKraken-zh/data",
+    "last_opened_file_path": "/Users/chengqiande/Documents/Github/GitKraken-zh/image",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -143,7 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692176046540</updated>
       <workItem from="1692176048275" duration="28834000" />
-      <workItem from="1692263445925" duration="1009000" />
+      <workItem from="1692263445925" duration="1479000" />
     </task>
     <servers />
   </component>

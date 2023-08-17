@@ -6,7 +6,7 @@
 > 
 > [破解说明：](https://pupper.cn/posts/ebfb7201.html) 如果有能力请支持正版，[GitKraken 官方网站](https://www.gitkraken.com/) 
 
-![image-20211108180142739](https://github.com/Pupper0601/GitKraken-zh/blob/main/image/iShot_2023-08-17_11.21.31.png)
+![image-20211108180142739](https://github.com/Pupper0601/GitKraken-zh/blob/main/image/iShot_2023-08-17_17.30.28.png)
 
 ## 使用方法
 
@@ -17,8 +17,8 @@
     - Linux: `/usr/share/gitkraken/resources/app.asar.unpacked/src`
 -   开启 GitKraken ，至 Preference -> UI Customization -> Language 切换语言
 
-![](https://img.pupper.cn/img/iShot_2023-08-17_11.23.26.png)
-![](https://github.com/Pupper0601/GitKraken-zh/blob/main/image/iShot_2023-08-17_11.20.32.png)
+![](https://github.com/Pupper0601/GitKraken-zh/blob/main/image/iShot_2023-08-17_17.32.15.png)
+![](https://github.com/Pupper0601/GitKraken-zh/blob/main/image/iShot_2023-08-17_17.30.52.png)
 
 ## 关于取消更新
 Window 平台直接删除： `C:\Users\{用户名}\AppData\Local\gitkraken\Update.exe` 即可。
