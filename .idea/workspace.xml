@@ -61,7 +61,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.LanguageConvert">
+  <component name="RunManager" selected="Python.Translate">
     <configuration name="LanguageConvert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GitKraken-zh" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,8 +130,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LanguageConvert" />
         <item itemvalue="Python.Translate" />
+        <item itemvalue="Python.LanguageConvert" />
         <item itemvalue="Python.TranslateYoudao" />
       </list>
     </recent_temporary>
