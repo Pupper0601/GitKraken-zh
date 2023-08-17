@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71cfda79-09ef-437a-9a0a-776cb17b270e" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/LanguageConvert.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/LanguageConvert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Translate.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Translate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/strings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +146,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692176046540</updated>
       <workItem from="1692176048275" duration="28834000" />
-      <workItem from="1692263445925" duration="4534000" />
+      <workItem from="1692263445925" duration="4898000" />
     </task>
     <servers />
   </component>
@@ -153,8 +154,8 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/GitKraken_zh$Translate.coverage" NAME="Translate 覆盖结果" MODIFIED="1692253868071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/libs" />
-    <SUITE FILE_PATH="coverage/GitKraken_zh$LanguageConvert.coverage" NAME="LanguageConvert 覆盖结果" MODIFIED="1692267436749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/libs" />
+    <SUITE FILE_PATH="coverage/GitKraken_zh$Translate.coverage" NAME="Translate 覆盖结果" MODIFIED="1692268229491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/libs" />
+    <SUITE FILE_PATH="coverage/GitKraken_zh$LanguageConvert.coverage" NAME="LanguageConvert 覆盖结果" MODIFIED="1692268021279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/libs" />
     <SUITE FILE_PATH="coverage/GitKraken_zh$TranslateDemo.coverage" NAME="TranslateDemo 覆盖结果" MODIFIED="1692251952381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/libs" />
   </component>
 </project>
